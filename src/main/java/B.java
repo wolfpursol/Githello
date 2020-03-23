@@ -3,6 +3,6 @@
  */
 public class B {
     public static void main(String[] args) {
-        System.out.println("GitVersion V0.7 -master update --merge合并分支处理");
+        System.out.println("GitVersion V0.9 -master update --merge合并分支处理");
     }
 }
